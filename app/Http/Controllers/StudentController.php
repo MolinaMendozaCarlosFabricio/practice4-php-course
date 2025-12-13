@@ -9,6 +9,6 @@ class StudentController extends Controller
 {
     public function index() {
         $students = Students::all();
-        return view('students.main', compact('students'));
+        return view('dashboard', compact('students'));
     }
 }
