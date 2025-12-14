@@ -1,1 +1,2 @@
 # practice4-php-course
+Actividad final para el curso de PHP, consiste en una aplicación basada en PHP usando Laravel que emplea autentificación por contraseña y por servicios de Google. La aplicación tiene temática de administración de estudiantes para maestros, donde para ingresar al sistema, el usuario debe iniciar sesión en la aplicación, y debe contar con un usuario registrado. Para el registro, se debe ingresar el nombre, correo y contraseña, o por otro lado, iniciar sesión por Google.
